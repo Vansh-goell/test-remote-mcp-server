@@ -1,0 +1,15 @@
+see for running in inspector 
+2 terminal
+
+npx @modelcontextprotocol/inspector
+and 
+python main.py
+
+
+and now in code see there is    http method , port 8000
+
+so in inspector
+
+transport type --> streamable http
+ and
+ URL  http://localhost:8000/mcp
